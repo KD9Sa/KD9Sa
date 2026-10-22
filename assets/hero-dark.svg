@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="192" viewBox="0 0 960 192" role="img" aria-labelledby="title desc">
+  <title id="title">Thoughtful interfaces. Dependable systems.</title>
+  <desc id="desc">Khalid Saleh's approach to full-stack development, connecting Angular interfaces, .NET APIs, and relational data.</desc>
+  <rect x=".5" y=".5" width="959" height="191" rx="14" fill="#151b23" stroke="#30363d"/>
+  <path d="M34 39h28" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="34" y="89" fill="#f0f6fc" font-size="34" font-weight="650">Thoughtful interfaces.</text>
+    <text x="34" y="131" fill="#2dd4bf" font-size="34" font-weight="650">Dependable systems.</text>
+    <text x="35" y="162" fill="#9198a1" font-size="12" letter-spacing="1.3">CLARITY IN CODE. CARE IN EVERY DETAIL.</text>
+    <g fill="#0d1117" stroke="#30363d">
+      <rect x="666" y="27" width="254" height="38" rx="7"/>
+      <rect x="666" y="77" width="254" height="38" rx="7"/>
+      <rect x="666" y="127" width="254" height="38" rx="7"/>
+    </g>
+    <path d="M793 65v12m0 38v12" stroke="#2dd4bf" stroke-width="1.5"/>
+    <g fill="#2dd4bf">
+      <circle cx="686" cy="46" r="3"/>
+      <circle cx="686" cy="96" r="3"/>
+      <circle cx="686" cy="146" r="3"/>
+    </g>
+    <g fill="#f0f6fc" font-size="13" font-weight="600">
+      <text x="702" y="51">Angular</text>
+      <text x="702" y="101">.NET</text>
+      <text x="702" y="151">SQL</text>
+    </g>
+    <g fill="#9198a1" font-size="11" text-anchor="end">
+      <text x="902" y="50">INTERFACE</text>
+      <text x="902" y="100">APPLICATION</text>
+      <text x="902" y="150">DATA</text>
+    </g>
+  </g>
+</svg>

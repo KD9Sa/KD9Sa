@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" role="img" aria-labelledby="title desc">
+  <title id="title">Thoughtful interfaces. Dependable systems.</title>
+  <desc id="desc">Khalid Saleh's approach to full-stack development.</desc>
+  <rect x=".5" y=".5" width="639" height="199" rx="14" fill="#151b23" stroke="#30363d"/>
+  <path d="M30 35h28" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="30" y="87" fill="#f0f6fc" font-size="38" font-weight="650">Thoughtful interfaces.</text>
+    <text x="30" y="134" fill="#2dd4bf" font-size="38" font-weight="650">Dependable systems.</text>
+    <text x="31" y="170" fill="#9198a1" font-size="14" letter-spacing="1.1">CLARITY IN CODE. CARE IN EVERY DETAIL.</text>
+  </g>
+</svg>
